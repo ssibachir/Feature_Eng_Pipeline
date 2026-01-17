@@ -66,17 +66,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## 🖼️ Note on the Architecture Diagram
-
-The following line in the Markdown ensures the image is displayed:
-
-```markdown
-![Architecture Diagram](./FeatureEng_diagram.png)
-```
-
-The `./` indicates that the image is in the **same folder** as the README. If the image does not display immediately in your code editor (e.g., VS Code, PyCharm), it will render correctly on GitHub, GitLab, or in "Preview" mode.
-
----
-
-Feel free to customize this template further to fit your project's specifics!
